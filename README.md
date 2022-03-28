@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Fernando Esteve
+- 👋 Hi, I’m Fernando Estevez
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning Java Script, css, html, Reactive components
 - 📫 How to reach me: ferme1992@gmail.com
