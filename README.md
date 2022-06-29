@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Fernando Estevez
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning Java Script, css, html, Reactive components
+- 🌱 I’m currently learning NodeJs, Express, TS and Reactive components
 - 📫 How to reach me: ferme1992@gmail.com
 
 <!---
